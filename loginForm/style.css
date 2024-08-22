@@ -1,0 +1,46 @@
+.login-container {
+  border: #225b20;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 15px;
+    margin-top: 15px;
+  text-align: center;
+  color: green
+}
+
+input {
+  width: 33%;
+  margin-left: 33%;
+  padding: 10px;
+  border: 1px solid #225b20;
+}
+
+#message {
+  margin-top: 10px;
+  color: red;
+  text-align: center;
+  font-size: medium;
+}
+
+#login-button{
+    width: 93px;
+    border: solid;
+    padding: 10px;
+    border-color: #225b20;
+    background-color: darkseagreen;
+    text-align: center;
+    margin: auto;
+}
+
+#heading{
+    text-align-last: center;
+    color: darkred;
+    margin-bottom: 50px;
+    font-size: x-large;
+}
